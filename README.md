@@ -20,9 +20,8 @@
 - Manage employees (add, delete, view).
 - View unreplied complaints and total count.
 - Prioritize urgent complaints.
-- Data Structures:
 
-
+#### Data Structures:
 ##### Linked List: Employee management.
 ##### Queue (Linked List): Complaint storage.
 ##### Stack: Problem summaries.
